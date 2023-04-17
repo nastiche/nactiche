@@ -20,7 +20,8 @@ besides from **coding** my passions are:
 - **hiking**
 - **dancing**
 - **cycling**
-- **personality theories**
+- **cooking**
+- **personality typing**
 
 ---
 
