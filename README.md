@@ -5,6 +5,9 @@ my name is **Nasti** and I am a (future) **web developer**
 <a href="https://www.linkedin.com/in/anastasiia-c-828a48190/">
   <img align="left" alt="Anastasiia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://discord.gg/932643729788006461">
+  <img align="left" alt="Anastasiia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
 </br>
 </br>
