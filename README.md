@@ -1,4 +1,11 @@
-# hey you, welcome to my GitHub space!
+### hey you, welcome to my GitHub space!
+
+<a href="https://www.linkedin.com/in/anastasiia-c-828a48190/">
+  <img align="left" alt="Anastasiia's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<br />
+<br />
 
 my name is Nasti and I am a **web developer**
 
