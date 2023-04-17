@@ -4,3 +4,7 @@ my name is Nasti and I am a **web developer**. besides from **coding** my passio
 - **hiking**
 - **dancing**
 - **personality theories**
+
+---
+
+![dog gif](https://abstracta.us/wp-content/uploads/2018/10/doggy.gif)
