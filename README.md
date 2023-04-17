@@ -1,6 +1,15 @@
 # hey you, welcome to my GitHub space!
 
-my name is Nasti and I am a **web developer**. besides from **coding** my passions are:
+my name is Nasti and I am a **web developer**
+
+languages and tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+
+
+besides from **coding** my passions are:
 - **hiking**
 - **dancing**
 - **personality theories**
