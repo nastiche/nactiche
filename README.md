@@ -25,7 +25,6 @@ besides from technology my **passions** are:
 - **dancing**
 - **cycling**
 - **cooking**
-- **personality typing**
 
 ---
 
