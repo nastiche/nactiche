@@ -20,7 +20,7 @@ my name is **Nasti** and I am a (future) **web developer**
 
 due to years-long experience in IT consulting I also posses expertise in **IT project management**
 
-besides from **technology** my passions are:
+besides from technology my **passions** are:
 - **hiking**
 - **dancing**
 - **cycling**
