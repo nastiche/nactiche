@@ -18,8 +18,9 @@ my name is **Nasti** and I am a (future) **web developer**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
+due to years-long experience in IT consulting I also posses expertise in **IT project management**
 
-besides from **coding** my passions are:
+besides from **technology** my passions are:
 - **hiking**
 - **dancing**
 - **cycling**
