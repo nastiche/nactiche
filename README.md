@@ -1,13 +1,13 @@
-## hey you, welcome to my GitHub space!
+hey you, welcome to my GitHub space!
 
-my name is **Nasti** and I am a **web developer**
+## my name is Nasti and I create awesome web apps
 
-**languages and tools** I use on a regular basis:
+languages and tools I use on a regular basis:
 
-**MongoDB Atlas**, **Mongoose**, **OpenAI API**, **LangChain**, **Cloudinary*, **SWR**, **CSS**, **React State**, **Next.js**, **Jest**, **React Testing Library**, **npm**
+## **React**, **Next.js**, **MongoDB Atlas**, **Mongoose**, **OpenAI API**, **LangChain**, **Cloudinary**, **SWR**, **CSS**, **React State**, **Jest**, **React Testing Library**, **npm**, **Agile***
 
 
-due to years-long experience in IT consulting I also posses expertise in **IT project management**
+*due to years-long experience in IT consulting I posses expertise in IT project management
 
 ---
 
