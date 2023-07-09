@@ -11,4 +11,4 @@ languages and tools I use on a regular basis:
 
 ---
 
-![dog gif](https://abstracta.us/wp-content/uploads/2018/10/doggy.gif)
+![dog gif](https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e479tv7f9phcfjywlacunm5j3jyj4hplan5rxtikayp&ep=v1_gifs_search&rid=200w.webp&ct=g)
