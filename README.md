@@ -1,6 +1,6 @@
 # 🤗 hey you, welcome to my GitHub space!
 
-### my name is Nasti and I create awesome web apps ([check out my most recent project](https://github.com/nastiche/capstone_taskifai_app).
+### my name is Nasti and I create awesome web apps ([check out my most recent project](https://github.com/nastiche/capstone_taskifai_app)).
 ## languages and tools I use on a regular basis:
 
 ### **React**, **Next.js**, **MongoDB Atlas**, **Mongoose**, **OpenAI API**, **LangChain**, **Cloudinary**, **SWR**, **CSS**, **React State**, **Jest**, **React Testing Library**, **npm**, **Agile***.
