@@ -7,12 +7,12 @@
 - ### **React**
 - ### **Next.js**
 - ### **MongoDB Atlas**
+- ### **CSS**
 - ### **Mongoose**
 - ### **OpenAI API**
 - ### **LangChain**
 - ### **Cloudinary**
 - ### **SWR**
-- ### **CSS**
 - ### **Jest**
 - ### **React Testing Library**
 - ### **npm**
